@@ -22,27 +22,27 @@ const Footer: React.FC = () => {
               contemporary designs that honor tradition and embrace modernity.
             </p>
             <div className="flex space-x-4">
-              <a
+              {/* <a
                 href="https://facebook.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Facebook"
               >
                 <Facebook size={20} />
-              </a>
+              </a> */}
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/_gulnaari?igsh=dHEyZzlzN2gyYWd3"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram size={20} />
               </a>
-              <a
+              {/* <a
                 href="https://twitter.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Twitter"
               >
                 <Twitter size={20} />
-              </a>
+              </a> */}
             </div>
           </div>
 
