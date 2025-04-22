@@ -146,21 +146,15 @@ const Footer: React.FC = () => {
                   size={18}
                   className="text-gold-400 mr-2 mt-1 flex-shrink-0"
                 />
-                <span>
-                  136-A Doctor Colony, <br />
-                  Jaipur, India - 302017
-                </span>
+                <span>xyz</span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="text-gold-400 mr-2 flex-shrink-0" />
-                <span>
-                  +91 9024057296 <br />
-                  +91 7424924307
-                </span>
+                <span>+91 9876543210</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="text-gold-400 mr-2 flex-shrink-0" />
-                <span>sharmaishita704@gmail.com</span>
+                <span>demo@gmail.com</span>
               </li>
             </ul>
           </div>
