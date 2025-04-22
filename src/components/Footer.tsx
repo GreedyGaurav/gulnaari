@@ -161,7 +161,10 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-10 pt-6 text-sm text-gray-500 flex flex-col md:flex-row justify-between items-center">
-          <p>© 2025 Gulnaari. All rights reserved. Founder: Ishita Sharma</p>
+          <p>
+            © 2025 Gulnaari. All rights reserved. Founder: Ishita Sharma &
+            Gaurav Sharma
+          </p>
           <p className="mt-2 md:mt-0">
             <span className="inline-flex items-center">
               Payment Methods:
